@@ -1,7 +1,5 @@
 # Chrome Password Extractor
 
-# Chrome Password Extractor
-
 This Python script extracts saved passwords from Google Chrome on Windows and displays them in the terminal.
 
 ## Disclaimer
